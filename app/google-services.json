@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074881043304",
+    "project_id": "cosmetic-app-b4793",
+    "storage_bucket": "cosmetic-app-b4793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074881043304:android:b6b5d542f05f8927c414dd",
+        "android_client_info": {
+          "package_name": "com.example.cosmeticsahyadriapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXtAlfRn_TtckB2XLXbf1bw33UQprVRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
